@@ -2,7 +2,9 @@
 
 ## Overview
 
-This repository contains models and data analyses focused on predicting the goal probabilities of football shots using advanced machine learning techniques. The primary goal of this project is to measure the quality of a shot by calculating the probability of it resulting in a goal. The analysis is based on event and tracking data provided by Metrica Sports, with models developed and evaluated on various datasets.
+This repository contains models and data analyses focused on predicting the goal probabilities of football shots using advanced machine learning techniques. The primary goal of this project is to measure the quality of a shot by calculating the probability of it resulting in a goal. The analysis is based on event and tracking data provided by Metrica Sports, with models developed and evaluated on various datasets. 
+
+Please refer to the ##1. ChanceQualityModel.pptx ##2. ShootingOpportunities.pptx for an in-detail overview.
 
 ## Contents
 
